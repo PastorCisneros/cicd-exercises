@@ -1,4 +1,4 @@
-# Configuracion de jenkinsfile
+# Configuracion REACt-NODE
 
 
 ## Implementacion de CD/CI
@@ -73,4 +73,4 @@ Se registra el elemento en jenkins
 
 ![alt text](img/img-3.jpeg)
 
-S
+
